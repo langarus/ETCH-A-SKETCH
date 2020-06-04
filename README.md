@@ -1,3 +1,7 @@
-This is an Etch-a-Sketch project as part of the TOD project assignment
+# Etch-a-Sketch with JS
+Move your cursor over and start drawing<br>
+You can chose the number of squares to have on width/height<br>
+It has a maximum of 100 tiles/width or height
 
-https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project?ref=lnav
+#### See it in action
+https://langarus.github.io/ETCH-A-SKETCH/
